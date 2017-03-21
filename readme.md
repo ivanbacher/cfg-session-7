@@ -13,7 +13,7 @@
 - Lets add a navigation menu to our page
  - http://getbootstrap.com/components/#navbar
 - **Task**: change the background colour of the navigation menu to any colour you wish
- - us this site to find colours: https://coolors.co/app
+ - use this site to find colours: https://coolors.co/app
 
 ```
 <!-- Navbar start -->
